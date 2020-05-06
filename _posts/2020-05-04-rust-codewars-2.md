@@ -17,13 +17,13 @@ Input will consist of a list of lists containing two items each. Each list conta
 Note for F#: The input will be of (int list list) which is a List<List>
 
 #### Example Input
-```vec![(45, 12), (55,21), (19, -2), (104, 20)])```
+`vec![(45, 12), (55,21), (19, -2), (104, 20)])`
 
 ### Output
 Output will consist of a list of string values (in Haskell: **Open** or **Senior**) stating whether the respective member is to be placed in the senior or open category.
 
 ### Example Output
-```vec!["Open", "Senior", "Open", "Senior"]```
+`vec!["Open", "Senior", "Open", "Senior"]`
 
 ### Solution
 ```

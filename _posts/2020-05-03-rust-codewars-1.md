@@ -10,11 +10,11 @@ categories: rust
 Your task is to make a function that can take any non-negative integer as a argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 
 ### Examples:
-Input: ```21445``` Output: ```54421```
+Input: `21445` Output: `54421`
 
-Input: ```145263``` Output: ```654321```
+Input: `145263` Output: `654321`
 
-Input: ```123456789``` Output: ```987654321```
+Input: `123456789` Output: `987654321`
 
 
 ### Solution
@@ -59,8 +59,8 @@ fn descending_order(x: u64) -> u64 {
 1. 매개변수로 받은 숫자를 string으로 변환: to_string()
 2. chars() 메서드로 Iterator를 받아서 
 3. map() 메서드에 각 character를 다시 숫자로 변경
-	- to_digit() 메서드 반환값이 u32이므로 ```as u64``` 로 형변환
-4. collect(consuming adaptors)를 통해 다시 Vec<64>로 반환
+	- to_digit() 메서드 반환값이 u32이므로 `as u64` 로 형변환
+4. collect(consuming adaptors)를 통해 다시 `Vec<64>`로 반환
 5. sort_by로 내림차순 정렬 (이를위해 vec변수를 mut로 선언)
 6. into_iter() 반복자를 통해 map으로 각 요소를 문자열로 변환
 7. collect()를 통해 string으로 변환후 parse()로 최종 Integer result 변환
