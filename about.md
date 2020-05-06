@@ -24,7 +24,7 @@ My info
 Resume
 ----
 오래전꺼라서 교체 예정입니다.
-https://github.com/nsdictionary/resume
+[Resume](https://github.com/nsdictionary/resume)
 
 Contact
 ----
