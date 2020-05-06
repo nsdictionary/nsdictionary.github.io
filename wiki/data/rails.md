@@ -1,5 +1,9 @@
-Rails
-=======
+---
+layout: default
+title: Rails
+---
+
+# {{page.title}}
 
 Switch DB bash script
 ---------

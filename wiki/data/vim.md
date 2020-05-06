@@ -1,5 +1,9 @@
-vim
-===
+---
+layout: default
+title: vim
+---
+
+# {{page.title}}
 
 - example
 ```
