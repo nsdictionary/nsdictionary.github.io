@@ -1,5 +1,9 @@
-MDwiki gimmick test
-===
+---
+layout: default
+title: MDwiki gimmick test
+---
+
+# {{page.title}}
 
 Alert
 ----

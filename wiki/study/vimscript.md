@@ -1,5 +1,9 @@
-vimscript
-===
+---
+layout: default
+title: vimscript
+---
+
+# {{page.title}}
 
 My vimrc settings
 ----

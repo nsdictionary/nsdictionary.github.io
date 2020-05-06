@@ -1,9 +1,10 @@
 ---
 layout: default
+title: My Knowledge Base
 ---
 
-My Knowledge Base
-===
+# {{page.title}}
+
 Warning! This page is private section. the details in the list below can be seen only by admin.
 
 Note: 이웹사이트는 개인용 wiki와 Blog를 겸하기 위해 만들었습니다. [vimwiki](https://vimwiki.github.io/)와 [Jekyll](https://jekyllrb.com/) 를 사용했고 전부 Vim에서 작성되었습니다.
