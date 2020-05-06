@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   All content and images © by Samuel Ryu / Website generated with jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Asia/Seoul
+
 github_username: nsdictionary
 
 # Build settings
