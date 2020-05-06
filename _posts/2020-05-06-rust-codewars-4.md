@@ -16,7 +16,6 @@ You will always get an valid array. And it will be always exactly one letter be 
 The array will always contain letters in only one case.
 
 ### Examples
-['a','b','c','d','f'] -> 'e' ['O','Q','R','S'] -> 'P'
 ```
 ["a","b","c","d","f"] -> "e"
 ["O","Q","R","S"] -> "P"
@@ -31,7 +30,7 @@ I have also created other katas. Take a look if you enjoyed this kata!
 ### Solution
 ```
 fn find_missing_letter(chars: &[char]) -> char {
-    
+
 }
 ```
 
