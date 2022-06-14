@@ -21,10 +21,10 @@ My info
 언제나 새로운 지식을 갈망하고 배움에 두려움이 없습니다.
 *제너럴 리스트보다는 스페셜 리스트를 지향합니다.*
 
-개발자 독서모임 [KDBC](https://ds1svg.notion.site/ds1svg/KDBC-96b5ee1963f247e5821594a83fff4ba9)
+KDBC
 ----
 [개발자 독서모임](https://ds1svg.notion.site/ds1svg/KDBC-96b5ee1963f247e5821594a83fff4ba9)
-을 운영하고 있습니다.<br/>
+**KDBC**(**K**orea **D**eveloper **B**ook **C**lub)를 운영하고 있습니다.<br/>
 관심있으시면 아래 이메일로 연락주세요!<br/>
 
 Resume
